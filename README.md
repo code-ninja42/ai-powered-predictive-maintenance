@@ -12,7 +12,7 @@ This project builds an **end-to-end Predictive Maintenance system** using the **
 
 - Predict whether a machine will fail.
 - Identify the most likely failure mode.
-- Explain model predictions using feature importance and SHAP.
+- Explain model predictions using feature importance 
 
 ---
 
@@ -85,7 +85,7 @@ Failure Modes
 - Seaborn
 - Scikit-learn
 - XGBoost
-- SHAP
+
 
 ---
 
