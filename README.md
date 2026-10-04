@@ -190,7 +190,8 @@ Compared multiple imbalance handling techniques:
 | Random Forest | 0.659 | 0.824 | 0.732 | 0.840 |
 | **XGBoost** | **0.846** | **0.809** | **0.827** | **0.892** |
 
-🏆 **Best Model:** XGBoost
+🏆 **Best Model:** Random Forest
+
 
 ---
 
